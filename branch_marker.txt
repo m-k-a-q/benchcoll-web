@@ -1,0 +1,3 @@
+branch: perf/lazy-load-images
+author: sasha-volkov
+seeded: 2026-05-03T12:00:00Z
